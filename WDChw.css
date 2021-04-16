@@ -9,8 +9,9 @@
     top: 5%;
     background-color: teal;
     color: white;
-    width: 90px;
+    width: 103px;
     margin: 20px;
+    padding: 10px;
 }
 
 .purplebox {
@@ -18,8 +19,9 @@
     top: 5%;
     background-color: purple;
     color: white;
-    width: 340px;
+    width: 350px;
     margin: 20px;
+    padding: 8px;
 }
 
 .greybox {
@@ -28,6 +30,16 @@
     background-color: darkgrey;
     color: black;
     width: 320px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.greenbox {
+    position: relative;
+    top: 5%;
+    background-color: rgb(134, 223, 195);
+    color: black;
+    width: 178px;
     margin: 20px;
     padding: 5px;
 }
@@ -56,6 +68,15 @@
     padding: 50px;
     width: 100%;
     background-color: tan;
+    color: black;
+}
+
+.bigbox3 {
+    position: relative;
+    top: 5px;
+    padding: 50px;
+    width: 100%;
+    background-color:lightgrey;
     color: black;
 }
 
