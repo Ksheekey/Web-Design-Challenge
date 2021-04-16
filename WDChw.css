@@ -27,8 +27,8 @@
 .greybox {
     position: relative;
     top: 5%;
-    background-color: darkgrey;
-    color: black;
+    background-color: teal;
+    color: white;
     width: 320px;
     margin: 20px;
     padding: 5px;
@@ -37,8 +37,8 @@
 .greenbox {
     position: relative;
     top: 5%;
-    background-color: rgb(134, 223, 195);
-    color: black;
+    background-color: teal;
+    color: white;
     width: 178px;
     margin: 20px;
     padding: 5px;
@@ -47,9 +47,19 @@
 .redbox {
     position: relative;
     top: 5%;
-    background-color: rgb(250, 78, 78);
-    color: black;
+    background-color: teal;
+    color: white;
     width: 210px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.yellowbox {
+    position: relative;
+    top: 5%;
+    background-color:teal;
+    color: white;
+    width: 230px;
     margin: 20px;
     padding: 5px;
 }
@@ -96,6 +106,15 @@
     padding: 50px;
     width: 100%;
     background-color:rgb(249, 149, 138);
+    color: black;
+}
+
+.bigbox5 {
+    position: relative;
+    top: 5px;
+    padding: 50px;
+    width: 100%;
+    background-color:rosybrown;
     color: black;
 }
 
