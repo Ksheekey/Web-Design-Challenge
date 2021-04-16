@@ -44,6 +44,16 @@
     padding: 5px;
 }
 
+.redbox {
+    position: relative;
+    top: 5%;
+    background-color: rgb(250, 78, 78);
+    color: black;
+    width: 210px;
+    margin: 20px;
+    padding: 5px;
+}
+
 .bkgrnd {
     background-color:linen;
 }
@@ -77,6 +87,15 @@
     padding: 50px;
     width: 100%;
     background-color:lightgrey;
+    color: black;
+}
+
+.bigbox4 {
+    position: relative;
+    top: 5px;
+    padding: 50px;
+    width: 100%;
+    background-color:rgb(249, 149, 138);
     color: black;
 }
 
