@@ -1,0 +1,85 @@
+.data-right {
+    position: relative;
+    top: 30%;
+    left: 10%;
+}
+
+.tealbox {
+    position: relative;
+    top: 5%;
+    background-color: teal;
+    color: white;
+    width: 90px;
+    margin: 20px;
+}
+
+.purplebox {
+    position: relative;
+    top: 5%;
+    background-color: purple;
+    color: white;
+    width: 340px;
+    margin: 20px;
+}
+
+.greybox {
+    position: relative;
+    top: 5%;
+    background-color: darkgrey;
+    color: black;
+    width: 320px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.bkgrnd {
+    background-color:linen;
+}
+
+.bkgrnd2 {
+    background-color: white;
+}
+
+.bigbox {
+    position: relative;
+    top: 15%;
+    background-color: tan;
+    width: 900px;
+    height: 600px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.bigbox2 {
+    position: relative;
+    top: 5px;
+    padding: 50px;
+    width: 100%;
+    background-color: tan;
+    color: black;
+}
+
+h5 {
+    padding: 15px;
+}
+
+@media (max-width: 991px) {
+    .data-right {
+        position: relative;
+        top: 30%;
+        left: 0%;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .bigbox {
+        position: relative;
+        top: 15%;
+        background-color: tan;
+        width: 500px;
+        height: 1200px;
+        margin: 20px;
+        padding: 15px;
+    }
+}
