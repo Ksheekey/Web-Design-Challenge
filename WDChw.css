@@ -98,7 +98,7 @@
 }
 
 .totheright {
-    position: fixed;
+    position: absolute;
     right:5px;
 }
 
